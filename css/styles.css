@@ -69,6 +69,10 @@ p{
 .profession{
     font-size: 2.5rem;
 }
+.about-me{
+    width: 30%;
+    text-align: center;
+}
 .skill-row0{
     width: 50%;
     margin: 50px auto;
